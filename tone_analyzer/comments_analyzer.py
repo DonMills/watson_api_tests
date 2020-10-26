@@ -1,5 +1,5 @@
 
-m openpyxl import Workbook, load_workbook
+from openpyxl import Workbook, load_workbook
 from openpyxl.styles import PatternFill
 import json
 from os.path import join, dirname
